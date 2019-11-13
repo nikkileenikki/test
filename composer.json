@@ -1,0 +1,7 @@
+{
+    "name": "nikkileenikki/helper",
+    "description": "Test help",
+    "require": {
+        "php": "^7.2",
+    }
+}
