@@ -2,6 +2,6 @@
     "name": "nikkileenikki/test",
     "description": "Test help",
     "require": {
-        "php": "^7.2",
+        "php": "^7.2"
     }
 }
